@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>Zane&#39;s Article Management System</title>
+      <link href="/posts/5dde2b6c.html"/>
+      <url>/posts/5dde2b6c.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="电影艺术文章管理系统"><a href="#电影艺术文章管理系统" class="headerlink" title="电影艺术文章管理系统"></a>电影艺术文章管理系统</h1><p>开放性创新实践软件项目 2023.04.23 结项总结</p><h2 id="1-项目搭建过程"><a href="#1-项目搭建过程" class="headerlink" title="1 项目搭建过程"></a>1 项目搭建过程</h2><p>模仿老师思路，自我独立实现，好友头脑风暴</p><h3 id="1-需求分析，详细设计以及环境准备"><a href="#1-需求分析，详细设计以及环境准备" class="headerlink" title="1 需求分析，详细设计以及环境准备"></a>1 需求分析，详细设计以及环境准备</h3><p>选题后开始分析文章管理系统的最终功能需求并构思可能方案，最初设计的生物文献管理系统虽然没有实现，但是为后来的电影艺术文章管理系统提供了更多可行的思路与方案，整体的需求分析与详细设计实际上是跟随开发过程一同进展的。<br>此外按照老师的视频笔记以及网络教程安装配置数据库，前后端开发环境并尝试使用 Git 进行项目版本管理，之后随着开发安装配置 ElasticSearch。</p><p><img src="/./assets/image240730-0.png" alt="Navicat 新建数据库表"></p><h3 id="2-基于-SpringBoot-的-Java-后端"><a href="#2-基于-SpringBoot-的-Java-后端" class="headerlink" title="2 基于 SpringBoot 的 Java 后端"></a>2 基于 SpringBoot 的 Java 后端</h3><p>将老师的后端代码 Fork 后 Git Clone 到本地，通过 Maven 安装配置各种依赖项。<br><img src="/./assets/image240730-1.png" alt="Maven 安装配置依赖项"><br><img src="/./assets/image240730-2.png" alt="对应修改配置文件"><br>通过 MybatisGenerator 自动生成 Article.java、ArticleMapper.java 以及 ArticleMapper.xml<br><img src="/./assets/image240730-3.png" alt="MybatisGenerator"><br><img src="/./assets/image240730-4.png" alt="alt text"></p><h3 id="3"><a href="#3" class="headerlink" title="3"></a>3</h3>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>About Me</title>
       <link href="/posts/4a17b156.html"/>
       <url>/posts/4a17b156.html</url>
